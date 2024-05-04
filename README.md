@@ -33,12 +33,12 @@ Ce projet est un bot de modération développé en Python pour le groupe WhatsAp
 
 1. **Cloner le dépôt** :
    ```
-   git clone https://github.com/yourusername/bot-moderation-whatsapp.git
+   git clone https://github.com/Eurin-lumen/WhatsAppAIModerateur.git
    ```
 
 2. **Installer les dépendances** :
    ```
-   cd bot-moderation-whatsapp
+   cd WhatsAppAIModerateur
    pip install -r requirements.txt
    ```
 
