@@ -3,7 +3,7 @@ C'est un petit programme sympa qui utilise l'API de WhatsApp pour nous aider à 
 
 --- 
 
-# Bot de Modération pour Groupe WhatsApp de Cybersécurité
+# Bot de Modération pour Groupe WhatsApp de Cybersécurité HASHCODE SECURITY 
 
 Ce projet est un bot de modération développé en Python pour le groupe WhatsApp de cybersécurité de la communauté HashCode Informatique. Le bot vise à aider à maintenir un environnement sûr et respectueux en détectant et en modérant les comportements indésirables tels que le spam et la publicité non autorisée.
 
