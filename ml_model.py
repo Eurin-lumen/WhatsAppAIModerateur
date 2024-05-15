@@ -1,7 +1,7 @@
 # ml_model.py
 # Ceci est une implémentation simple, un modèle ML complet nécessitera plus de travail.
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.naive_bayes import MultinomialNB
+from sklearn.feature_extraction.text import CountVectorizer # type: ignore
+from sklearn.naive_bayes import MultinomialNB # type: ignore
 
 class SpamClassifier:
     def __init__(self):

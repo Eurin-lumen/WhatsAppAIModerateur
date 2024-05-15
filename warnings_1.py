@@ -1,4 +1,7 @@
 # warnings.py
+from ban_user import ban_user
+
+
 user_warnings = {}
 
 def warn_user(user_id):
